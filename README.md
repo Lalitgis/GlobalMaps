@@ -11,4 +11,8 @@ Figure 2: Global Precipitation
 
 Figure 3: Global Fire Incidents of past 7 days
 
+Figure 4: Crocodile habitat mapping 
+![worldmap_habitats_WorldGrayCanvas](https://github.com/user-attachments/assets/20765b5c-3459-46b9-9cdc-3c74aed616ac)
 
+Figure 5: Crocodile mapping of specific species
+![1_crocodile](https://github.com/user-attachments/assets/99ce3e28-cb5f-4f16-8b54-0b746f890a83)
